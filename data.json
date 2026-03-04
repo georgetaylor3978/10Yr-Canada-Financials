@@ -1,0 +1,3462 @@
+{
+  "years": [
+    "2015/2016",
+    "2016/2017",
+    "2017/2018",
+    "2018/2019",
+    "2019/2020",
+    "2020/2021",
+    "2021/2022",
+    "2022/2023",
+    "2023/2024",
+    "2024/2025"
+  ],
+  "revenues": [
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Tax revenues",
+      "lvl3": "Income tax revenues",
+      "lvl4": "Personal",
+      "detail": "",
+      "values": {
+        "2015/2016": 144897,
+        "2016/2017": 143680,
+        "2017/2018": 153619,
+        "2018/2019": 163881,
+        "2019/2020": 167576,
+        "2020/2021": 174755,
+        "2021/2022": 198385,
+        "2022/2023": 207872,
+        "2023/2024": 217696,
+        "2024/2025": 234319
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Tax revenues",
+      "lvl3": "Income tax revenues",
+      "lvl4": "Corporate",
+      "detail": "",
+      "values": {
+        "2015/2016": 41444,
+        "2016/2017": 42216,
+        "2017/2018": 47805,
+        "2018/2019": 50368,
+        "2019/2020": 50060,
+        "2020/2021": 54112,
+        "2021/2022": 78815,
+        "2022/2023": 93945,
+        "2023/2024": 82468,
+        "2024/2025": 96954
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Tax revenues",
+      "lvl3": "Income tax revenues",
+      "lvl4": "Non-resident",
+      "detail": "",
+      "values": {
+        "2015/2016": 6505,
+        "2016/2017": 7071,
+        "2017/2018": 7845,
+        "2018/2019": 9370,
+        "2019/2020": 9476,
+        "2020/2021": 8107,
+        "2021/2022": 10789,
+        "2022/2023": 13187,
+        "2023/2024": 12541,
+        "2024/2025": 13528
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Tax revenues",
+      "lvl3": "Other taxes and duties",
+      "lvl4": "Goods and services tax",
+      "detail": "",
+      "values": {
+        "2015/2016": 32952,
+        "2016/2017": 34368,
+        "2017/2018": 36751,
+        "2018/2019": 38221,
+        "2019/2020": 37386,
+        "2020/2021": 32415,
+        "2021/2022": 46165,
+        "2022/2023": 45962,
+        "2023/2024": 51416,
+        "2024/2025": 52503
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Tax revenues",
+      "lvl3": "Other taxes and duties",
+      "lvl4": "Energy taxes",
+      "detail": "",
+      "values": {
+        "2015/2016": 5565,
+        "2016/2017": 5634,
+        "2017/2018": 5739,
+        "2018/2019": 5802,
+        "2019/2020": 5683,
+        "2020/2021": 4894,
+        "2021/2022": 5355,
+        "2022/2023": 5657,
+        "2023/2024": 5599,
+        "2024/2025": 5650
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Tax revenues",
+      "lvl3": "Other taxes and duties",
+      "lvl4": "Customs import duties",
+      "detail": "",
+      "values": {
+        "2015/2016": 5372,
+        "2016/2017": 5478,
+        "2017/2018": 5416,
+        "2018/2019": 6881,
+        "2019/2020": 4853,
+        "2020/2021": 4254,
+        "2021/2022": 5237,
+        "2022/2023": 6057,
+        "2023/2024": 5571,
+        "2024/2025": 6264
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Tax revenues",
+      "lvl3": "Other taxes and duties",
+      "lvl4": "Other excise taxes and duties",
+      "detail": "",
+      "values": {
+        "2015/2016": 5916,
+        "2016/2017": 5868,
+        "2017/2018": 5913,
+        "2018/2019": 6323,
+        "2019/2020": 5958,
+        "2020/2021": 5391,
+        "2021/2022": 5923,
+        "2022/2023": 6548,
+        "2023/2024": 6829,
+        "2024/2025": 7487
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Employment insurance premiums",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 23070,
+        "2016/2017": 22125,
+        "2017/2018": 21140,
+        "2018/2019": 22295,
+        "2019/2020": 22219,
+        "2020/2021": 22392,
+        "2021/2022": 23856,
+        "2022/2023": 26914,
+        "2023/2024": 29560,
+        "2024/2025": 31530
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Pollution pricing proceeds",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 2655,
+        "2020/2021": 4380,
+        "2021/2022": 6341,
+        "2022/2023": 8041,
+        "2023/2024": 10503,
+        "2024/2025": 13552
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Other revenues",
+      "lvl3": "Enterprise Crown corporations and other government business enterprises",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 7916,
+        "2016/2017": 5655,
+        "2017/2018": 7731,
+        "2018/2019": 7101,
+        "2019/2020": 5059,
+        "2020/2021": -10542,
+        "2021/2022": 12804,
+        "2022/2023": 6452,
+        "2023/2024": 3217,
+        "2024/2025": 8048
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Other revenues",
+      "lvl3": "Net foreign exchange revenues and return on investments",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 3403,
+        "2016/2017": 3296,
+        "2017/2018": 2789,
+        "2018/2019": 3473,
+        "2019/2020": 4218,
+        "2020/2021": 2572,
+        "2021/2022": 1272,
+        "2022/2023": 2374,
+        "2023/2024": 4290,
+        "2024/2025": 6768
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Revenues",
+      "lvl2": "Other revenues",
+      "lvl3": "Other program revenues",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 15568,
+        "2016/2017": 15477,
+        "2017/2018": 16468,
+        "2018/2019": 18503,
+        "2019/2020": 18988,
+        "2020/2021": 13716,
+        "2021/2022": 18335,
+        "2022/2023": 24806,
+        "2023/2024": 29859,
+        "2024/2025": 34348
+      }
+    }
+  ],
+  "expenses": [
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Old age security benefits, guaranteed income supplement and spouse's allowance",
+      "detail": "",
+      "values": {
+        "2015/2016": 45461,
+        "2016/2017": 48162,
+        "2017/2018": 50644,
+        "2018/2019": 53366,
+        "2019/2020": 56227,
+        "2020/2021": 58529,
+        "2021/2022": 60774,
+        "2022/2023": 69392,
+        "2023/2024": 76036,
+        "2024/2025": 80294
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Major transfer payments to other levels of government",
+      "detail": "Canada Health Transfer",
+      "values": {
+        "2015/2016": 34025,
+        "2016/2017": 36057,
+        "2017/2018": 37124,
+        "2018/2019": 38568,
+        "2019/2020": 40872,
+        "2020/2021": 45880,
+        "2021/2022": 45133,
+        "2022/2023": 47141,
+        "2023/2024": 49431,
+        "2024/2025": 52070
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Major transfer payments to other levels of government",
+      "detail": "Canada Social Transfer",
+      "values": {
+        "2015/2016": 12959,
+        "2016/2017": 13348,
+        "2017/2018": 13748,
+        "2018/2019": 14161,
+        "2019/2020": 14585,
+        "2020/2021": 15023,
+        "2021/2022": 15474,
+        "2022/2023": 15938,
+        "2023/2024": 16417,
+        "2024/2025": 16909
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Major transfer payments to other levels of government",
+      "detail": "Canada-wide Early Learning and Child Care",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 2948,
+        "2022/2023": 4489,
+        "2023/2024": 5612,
+        "2024/2025": 6639
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Major transfer payments to other levels of government",
+      "detail": "Fiscal arrangements",
+      "values": {
+        "2015/2016": 16893,
+        "2016/2017": 17145,
+        "2017/2018": 17575,
+        "2018/2019": 17929,
+        "2019/2020": 18030,
+        "2020/2021": 19299,
+        "2021/2022": 19121,
+        "2022/2023": 19731,
+        "2023/2024": 21738,
+        "2024/2025": 22915
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Major transfer payments to other levels of government",
+      "detail": "Other major transfers",
+      "values": {
+        "2015/2016": 1973,
+        "2016/2017": 2102,
+        "2017/2018": 2072,
+        "2018/2019": 5267,
+        "2019/2020": 5688,
+        "2020/2021": 26451,
+        "2021/2022": 5710,
+        "2022/2023": 3485,
+        "2023/2024": 6975,
+        "2024/2025": 6568
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Employment insurance and support measures",
+      "detail": "",
+      "values": {
+        "2015/2016": 19419,
+        "2016/2017": 20711,
+        "2017/2018": 19715,
+        "2018/2019": 18888,
+        "2019/2020": 21750,
+        "2020/2021": 58356,
+        "2021/2022": 38923,
+        "2022/2023": 21836,
+        "2023/2024": 23130,
+        "2024/2025": 24880
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Children's benefits",
+      "detail": "",
+      "values": {
+        "2015/2016": 18025,
+        "2016/2017": 22065,
+        "2017/2018": 23432,
+        "2018/2019": 23882,
+        "2019/2020": 24344,
+        "2020/2021": 27370,
+        "2021/2022": 26226,
+        "2022/2023": 24553,
+        "2023/2024": 26339,
+        "2024/2025": 28574
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "COVID-19 income support for workers",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 4739,
+        "2020/2021": 55832,
+        "2021/2022": 15582,
+        "2022/2023": -3544,
+        "2023/2024": -4838,
+        "2024/2025": -2169
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Canada emergency wage subsidy",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 80166,
+        "2021/2022": 22291,
+        "2022/2023": -257,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Pollution pricing proceeds returned",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 664,
+        "2019/2020": 2636,
+        "2020/2021": 4566,
+        "2021/2022": 3814,
+        "2022/2023": 6996,
+        "2023/2024": 9858,
+        "2024/2025": 15595
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Transfer payments",
+      "lvl4": "Other transfer payments",
+      "detail": "",
+      "values": {
+        "2015/2016": 34874,
+        "2016/2017": 41580,
+        "2017/2018": 47138,
+        "2018/2019": 51753,
+        "2019/2020": 54405,
+        "2020/2021": 97961,
+        "2021/2022": 88478,
+        "2022/2023": 99199,
+        "2023/2024": 95951,
+        "2024/2025": 107140
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Program expenses",
+      "lvl3": "Other expenses, excluding net actuarial losses",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 79939,
+        "2016/2017": 77519,
+        "2017/2018": 86488,
+        "2018/2019": 90077,
+        "2019/2020": 95191,
+        "2020/2021": 119089,
+        "2021/2022": 124445,
+        "2022/2023": 129596,
+        "2023/2024": 140014,
+        "2024/2025": 130454
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Expenses",
+      "lvl2": "Public debt charges",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 21837,
+        "2016/2017": 21232,
+        "2017/2018": 21889,
+        "2018/2019": 23266,
+        "2019/2020": 24447,
+        "2020/2021": 20358,
+        "2021/2022": 24487,
+        "2022/2023": 34955,
+        "2023/2024": 47273,
+        "2024/2025": 53410
+      }
+    }
+  ],
+  "balanceSheet": [
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Accounts payable and accrued liabilities",
+      "lvl3": "Amounts payable related to tax",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 53697,
+        "2016/2017": 55077,
+        "2017/2018": 61876,
+        "2018/2019": 65200,
+        "2019/2020": 60186,
+        "2020/2021": 71516,
+        "2021/2022": 78463,
+        "2022/2023": 84747,
+        "2023/2024": 87737,
+        "2024/2025": 94790
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Accounts payable and accrued liabilities",
+      "lvl3": "Other accounts payable and accrued liabilities",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 31113,
+        "2016/2017": 30130,
+        "2017/2018": 38740,
+        "2018/2019": 43678,
+        "2019/2020": 49875,
+        "2020/2021": 62358,
+        "2021/2022": 87852,
+        "2022/2023": 57771,
+        "2023/2024": 79894,
+        "2024/2025": 68392
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Accounts payable and accrued liabilities",
+      "lvl3": "Provision for contingent liabilities",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 12562,
+        "2016/2017": 16511,
+        "2017/2018": 23030,
+        "2018/2019": 26447,
+        "2019/2020": 24928,
+        "2020/2021": 44815,
+        "2021/2022": 53436,
+        "2022/2023": 75999,
+        "2023/2024": 56588,
+        "2024/2025": 54721
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Accounts payable and accrued liabilities",
+      "lvl3": "Environmental liabilities and asset retirement obligations",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 13282,
+        "2016/2017": 12599,
+        "2017/2018": 12291,
+        "2018/2019": 13192,
+        "2019/2020": 14646,
+        "2020/2021": 14484,
+        "2021/2022": 23886,
+        "2022/2023": 23134,
+        "2023/2024": 22643,
+        "2024/2025": 23905
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Accounts payable and accrued liabilities",
+      "lvl3": "Deferred revenue",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 9684,
+        "2016/2017": 9066,
+        "2017/2018": 8220,
+        "2018/2019": 7500,
+        "2019/2020": 10522,
+        "2020/2021": 10424,
+        "2021/2022": 18892,
+        "2022/2023": 17789,
+        "2023/2024": 17194,
+        "2024/2025": 17917
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Unmatured debt",
+      "lvl4": "Payable in Canadian currency—Marketable bonds",
+      "detail": "",
+      "values": {
+        "2015/2016": 513016,
+        "2016/2017": 545382,
+        "2017/2018": 582501,
+        "2018/2019": 576128,
+        "2019/2020": 603639,
+        "2020/2021": 889137,
+        "2021/2022": 1043240,
+        "2022/2023": 1044997,
+        "2023/2024": 1087686,
+        "2024/2025": 1169397
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Unmatured debt",
+      "lvl4": "Payable in Canadian currency—Treasury bills",
+      "detail": "",
+      "values": {
+        "2015/2016": 137894,
+        "2016/2017": 136464,
+        "2017/2018": 110264,
+        "2018/2019": 133555,
+        "2019/2020": 151285,
+        "2020/2021": 218664,
+        "2021/2022": 186877,
+        "2022/2023": 198899,
+        "2023/2024": 262983,
+        "2024/2025": 282252
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Unmatured debt",
+      "lvl4": "Payable in Canadian currency—Retail debt",
+      "detail": "",
+      "values": {
+        "2015/2016": 5076,
+        "2016/2017": 4533,
+        "2017/2018": 2586,
+        "2018/2019": 1237,
+        "2019/2020": 497,
+        "2020/2021": 299,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Unmatured debt",
+      "lvl4": "Payable in foreign currencies",
+      "detail": "",
+      "values": {
+        "2015/2016": 22498,
+        "2016/2017": 17626,
+        "2017/2018": 16089,
+        "2018/2019": 16068,
+        "2019/2020": 15982,
+        "2020/2021": 15469,
+        "2021/2022": 14473,
+        "2022/2023": 16034,
+        "2023/2024": 21246,
+        "2024/2025": 29557
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Unmatured debt",
+      "lvl4": "Obligation related to capital leases",
+      "detail": "",
+      "values": {
+        "2015/2016": 3477,
+        "2016/2017": 3226,
+        "2017/2018": 3203,
+        "2018/2019": 2893,
+        "2019/2020": 2913,
+        "2020/2021": 2708,
+        "2021/2022": 2786,
+        "2022/2023": 2546,
+        "2023/2024": 2366,
+        "2024/2025": 2188
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Unmatured debt",
+      "lvl4": "Obligation under public-private partnership",
+      "detail": "",
+      "values": {
+        "2015/2016": 1570,
+        "2016/2017": 2199,
+        "2017/2018": 2393,
+        "2018/2019": 3511,
+        "2019/2020": 2590,
+        "2020/2021": 2531,
+        "2021/2022": 2581,
+        "2022/2023": 2564,
+        "2023/2024": 2541,
+        "2024/2025": 2493
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Pensions and other future benefits",
+      "lvl4": "Public sector pensions",
+      "detail": "",
+      "values": {
+        "2015/2016": 170681,
+        "2016/2017": 171447,
+        "2017/2018": 170914,
+        "2018/2019": 168782,
+        "2019/2020": 168596,
+        "2020/2021": 168761,
+        "2021/2022": 167666,
+        "2022/2023": 166425,
+        "2023/2024": 165354,
+        "2024/2025": 162746
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Pensions and other future benefits",
+      "lvl4": "Other employee and veteran future benefits",
+      "detail": "",
+      "values": {
+        "2015/2016": 85681,
+        "2016/2017": 93568,
+        "2017/2018": 104793,
+        "2018/2019": 113862,
+        "2019/2020": 126378,
+        "2020/2021": 144186,
+        "2021/2022": 159705,
+        "2022/2023": 177949,
+        "2023/2024": 196350,
+        "2024/2025": 213667
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Canada Pension Plan Account",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 35,
+        "2016/2017": 106,
+        "2017/2018": 32,
+        "2018/2019": 163,
+        "2019/2020": 279,
+        "2020/2021": 139,
+        "2021/2022": 101,
+        "2022/2023": 306,
+        "2023/2024": 159,
+        "2024/2025": 465
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Interest-bearing debt",
+      "lvl3": "Other liabilities",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 5567,
+        "2016/2017": 5583,
+        "2017/2018": 5638,
+        "2018/2019": 5742,
+        "2019/2020": 5772,
+        "2020/2021": 6572,
+        "2021/2022": 7606,
+        "2022/2023": 7033,
+        "2023/2024": 6804,
+        "2024/2025": 6566
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Foreign exchange accounts liabilities",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 29288,
+        "2016/2017": 28888,
+        "2017/2018": 29914,
+        "2018/2019": 28507,
+        "2019/2020": 28660,
+        "2020/2021": 24797,
+        "2021/2022": 42252,
+        "2022/2023": 44151,
+        "2023/2024": 44106,
+        "2024/2025": 47697
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Liabilities",
+      "lvl2": "Derivatives",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 9232,
+        "2016/2017": 9419,
+        "2017/2018": 8786,
+        "2018/2019": 8265,
+        "2019/2020": 11331,
+        "2020/2021": 3245,
+        "2021/2022": 2471,
+        "2022/2023": 4689,
+        "2023/2024": 4131,
+        "2024/2025": 5583
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Cash and accounts receivable",
+      "lvl3": "Cash and cash equivalents",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 38570,
+        "2016/2017": 36500,
+        "2017/2018": 34642,
+        "2018/2019": 37635,
+        "2019/2020": 37242,
+        "2020/2021": 64101,
+        "2021/2022": 100822,
+        "2022/2023": 49006,
+        "2023/2024": 75059,
+        "2024/2025": 54109
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Cash and accounts receivable",
+      "lvl3": "Taxes receivable",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 105848,
+        "2016/2017": 110514,
+        "2017/2018": 123035,
+        "2018/2019": 127561,
+        "2019/2020": 121098,
+        "2020/2021": 142023,
+        "2021/2022": 167588,
+        "2022/2023": 180982,
+        "2023/2024": 203045,
+        "2024/2025": 213657
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Cash and accounts receivable",
+      "lvl3": "Other accounts receivable",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 10139,
+        "2016/2017": 10316,
+        "2017/2018": 14380,
+        "2018/2019": 11845,
+        "2019/2020": 15375,
+        "2020/2021": 18072,
+        "2021/2022": 11642,
+        "2022/2023": 13532,
+        "2023/2024": 13999,
+        "2024/2025": 13628
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Foreign exchange accounts",
+      "lvl3": "International reserves held in the Exchange Fund Account",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 101379,
+        "2016/2017": 106668,
+        "2017/2018": 105430,
+        "2018/2019": 107200,
+        "2019/2020": 112017,
+        "2020/2021": 97589,
+        "2021/2022": 127099,
+        "2022/2023": 148866,
+        "2023/2024": 159415,
+        "2024/2025": 177591
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Foreign exchange accounts",
+      "lvl3": "International Monetary Fund—Subscriptions",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 20170,
+        "2016/2017": 19892,
+        "2017/2018": 20647,
+        "2018/2019": 20449,
+        "2019/2020": 21178,
+        "2020/2021": 19633,
+        "2021/2022": 19052,
+        "2022/2023": 20043,
+        "2023/2024": 19757,
+        "2024/2025": 21070
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Foreign exchange accounts",
+      "lvl3": "International Monetary Fund—Loans",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 1278,
+        "2016/2017": 1125,
+        "2017/2018": 775,
+        "2018/2019": 546,
+        "2019/2020": 368,
+        "2020/2021": 197,
+        "2021/2022": 132,
+        "2022/2023": 67,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Foreign exchange accounts",
+      "lvl3": "International Monetary Fund—Poverty Reduction and Growth Trust",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": 494,
+        "2024/2025": 1911
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Foreign exchange accounts",
+      "lvl3": "International Monetary Fund—Resilience and Sustainability Trust",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 414,
+        "2023/2024": 474,
+        "2024/2025": 790
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Derivatives",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 764,
+        "2016/2017": 1649,
+        "2017/2018": 979,
+        "2018/2019": 1052,
+        "2019/2020": 810,
+        "2020/2021": 3067,
+        "2021/2022": 4974,
+        "2022/2023": 3260,
+        "2023/2024": 2928,
+        "2024/2025": 1752
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Loans, investments and advances",
+      "lvl3": "Enterprise Crown corporations and other government business enterprises",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 91116,
+        "2016/2017": 99427,
+        "2017/2018": 100775,
+        "2018/2019": 108169,
+        "2019/2020": 125108,
+        "2020/2021": 119994,
+        "2021/2022": 143717,
+        "2022/2023": 151051,
+        "2023/2024": 165344,
+        "2024/2025": 227356
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Loans, investments and advances",
+      "lvl3": "Other loans, investments and advances",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 24841,
+        "2016/2017": 24579,
+        "2017/2018": 25596,
+        "2018/2019": 25743,
+        "2019/2020": 27394,
+        "2020/2021": 59284,
+        "2021/2022": 63314,
+        "2022/2023": 62059,
+        "2023/2024": 44458,
+        "2024/2025": 51164
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Financial assets",
+      "lvl2": "Public sector pension assets",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 1639,
+        "2016/2017": 1900,
+        "2017/2018": 2124,
+        "2018/2019": 2406,
+        "2019/2020": 4598,
+        "2020/2021": 6320,
+        "2021/2022": 9203,
+        "2022/2023": 12996,
+        "2023/2024": 20055,
+        "2024/2025": 25722
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Non-financial assets",
+      "lvl2": "Tangible capital assets",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 65838,
+        "2016/2017": 69676,
+        "2017/2018": 73835,
+        "2018/2019": 78942,
+        "2019/2020": 83682,
+        "2020/2021": 87583,
+        "2021/2022": 92785,
+        "2022/2023": 97337,
+        "2023/2024": 104552,
+        "2024/2025": 115091
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Non-financial assets",
+      "lvl2": "Inventories",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 7221,
+        "2016/2017": 6842,
+        "2017/2018": 6679,
+        "2018/2019": 6601,
+        "2019/2020": 6171,
+        "2020/2021": 9764,
+        "2021/2022": 9026,
+        "2022/2023": 9405,
+        "2023/2024": 8214,
+        "2024/2025": 7933
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Financial Position—detailed",
+      "lvl1": "Non-financial assets",
+      "lvl2": "Prepaid expenses and other",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 1110,
+        "2016/2017": 1196,
+        "2017/2018": 1119,
+        "2018/2019": 1131,
+        "2019/2020": 1678,
+        "2020/2021": 3732,
+        "2021/2022": 2958,
+        "2022/2023": 3002,
+        "2023/2024": 3837,
+        "2024/2025": 4078
+      }
+    }
+  ],
+  "otherStatements": [
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Net actuarial losses",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -10064,
+        "2016/2017": -9904,
+        "2017/2018": -10352,
+        "2018/2019": -8361,
+        "2019/2020": -10609,
+        "2020/2021": -15295,
+        "2021/2022": -10186,
+        "2022/2023": -9627,
+        "2023/2024": -7489,
+        "2024/2025": -4020
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Annual operating deficit",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -2861,
+        "2016/2017": -18957,
+        "2017/2018": -18961,
+        "2018/2019": -13964,
+        "2019/2020": -39392,
+        "2020/2021": -327729,
+        "2021/2022": -90315,
+        "2022/2023": -35322,
+        "2023/2024": -61876,
+        "2024/2025": -36348
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Accumulated deficit at beginning of year—as previously reported",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -612330,
+        "2016/2017": -615986,
+        "2017/2018": -631899,
+        "2018/2019": -671254,
+        "2019/2020": -685450,
+        "2020/2021": -721360,
+        "2021/2022": -1048746,
+        "2022/2023": -1148296,
+        "2023/2024": -1183618,
+        "2024/2025": -1245494
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Accounting change and restatement—Public sector pensions",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -16580,
+        "2016/2017": -18454,
+        "2017/2018": -19641,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Accounting change and restatement—Asset retirement obligations",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": -5379,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Operations and Accumulated Deficit—detailed",
+      "lvl1": "Other comprehensive income (loss)",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -2669,
+        "2016/2017": 1857,
+        "2017/2018": -753,
+        "2018/2019": -232,
+        "2019/2020": 3482,
+        "2020/2021": 343,
+        "2021/2022": 4465,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Remeasurement Gains and Losses—detailed",
+      "lvl1": "Accumulated remeasurement gains—beginning of year",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 5758,
+        "2023/2024": 10605,
+        "2024/2025": 9343
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Remeasurement Gains and Losses—detailed",
+      "lvl1": "Net unrealized gains (losses)",
+      "lvl2": "Derivatives",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 3350,
+        "2023/2024": -1075,
+        "2024/2025": 4995
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Remeasurement Gains and Losses—detailed",
+      "lvl1": "Net unrealized gains (losses)",
+      "lvl2": "Other loans, investments and advances—Portfolio investments",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": -122,
+        "2023/2024": 40,
+        "2024/2025": 149
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Remeasurement Gains and Losses—detailed",
+      "lvl1": "Amounts reclassified during the year to the Consolidated Statement of Operations and Accumulated Operating Deficit",
+      "lvl2": "Derivatives",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": -12,
+        "2023/2024": -8,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Remeasurement Gains and Losses—detailed",
+      "lvl1": "Amounts reclassified during the year to the Consolidated Statement of Operations and Accumulated Operating Deficit",
+      "lvl2": "Other loans, investments and advances—Portfolio investments",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 3,
+        "2023/2024": 2,
+        "2024/2025": -49
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Remeasurement Gains and Losses—detailed",
+      "lvl1": "Other comprehensive income (loss) of enterprise Crown corporations",
+      "lvl2": "Net change in unrealized gains (losses) on financial instruments measured at fair value through other comprehensive income",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": -51,
+        "2023/2024": 146,
+        "2024/2025": 401
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Remeasurement Gains and Losses—detailed",
+      "lvl1": "Other comprehensive income (loss) of enterprise Crown corporations",
+      "lvl2": "Net change in fair value of derivatives designated as hedges",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 48,
+        "2023/2024": 0,
+        "2024/2025": -1
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Remeasurement Gains and Losses—detailed",
+      "lvl1": "Other comprehensive income (loss) of enterprise Crown corporations",
+      "lvl2": "Actuarial gains (losses) on pensions and other employee future benefits",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 1631,
+        "2023/2024": -367,
+        "2024/2025": 520
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Net debt at beginning of year—as previously reported",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -686959,
+        "2016/2017": -693751,
+        "2017/2018": -714457,
+        "2018/2019": -752887,
+        "2019/2020": -772124,
+        "2020/2021": -812891,
+        "2021/2022": -1149825,
+        "2022/2023": -1247307,
+        "2023/2024": -1282757,
+        "2024/2025": -1352754
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Accounting changes and restatement",
+      "lvl2": "Public sector pensions",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -16580,
+        "2016/2017": -18454,
+        "2017/2018": -19641,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Accounting changes and restatement",
+      "lvl2": "Change in revenue recognition criteria",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 2826,
+        "2016/2017": 3596,
+        "2017/2018": 4844,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Accounting changes and restatement",
+      "lvl2": "Asset retirement obligations",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": -6328,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Annual operating deficit",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -2861,
+        "2016/2017": -18957,
+        "2017/2018": -18961,
+        "2018/2019": -13964,
+        "2019/2020": -39392,
+        "2020/2021": -327729,
+        "2021/2022": -90315,
+        "2022/2023": -35322,
+        "2023/2024": -61876,
+        "2024/2025": -36348
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Change due to tangible capital assets",
+      "lvl2": "Acquisition of tangible capital assets",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -8015,
+        "2016/2017": -8547,
+        "2017/2018": -9793,
+        "2018/2019": -11134,
+        "2019/2020": -10286,
+        "2020/2021": -10127,
+        "2021/2022": -9588,
+        "2022/2023": -10703,
+        "2023/2024": -13585,
+        "2024/2025": -16808
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Change due to tangible capital assets",
+      "lvl2": "Amortization of tangible capital assets",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 5049,
+        "2016/2017": 5168,
+        "2017/2018": 5261,
+        "2018/2019": 5643,
+        "2019/2020": 5790,
+        "2020/2021": 5969,
+        "2021/2022": 5514,
+        "2022/2023": 5644,
+        "2023/2024": 5633,
+        "2024/2025": 6044
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Change due to tangible capital assets",
+      "lvl2": "Proceeds from disposal of tangible capital assets",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 610,
+        "2016/2017": 373,
+        "2017/2018": 236,
+        "2018/2019": 433,
+        "2019/2020": 41,
+        "2020/2021": 15,
+        "2021/2022": 28,
+        "2022/2023": 26,
+        "2023/2024": 62,
+        "2024/2025": 12
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Change due to tangible capital assets",
+      "lvl2": "Net loss (gain) on disposal and write-offs of tangible capital assets, including adjustments",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -135,
+        "2016/2017": -832,
+        "2017/2018": 137,
+        "2018/2019": -49,
+        "2019/2020": -285,
+        "2020/2021": 242,
+        "2021/2022": -207,
+        "2022/2023": 481,
+        "2023/2024": 675,
+        "2024/2025": 213
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Change due to inventories",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 29,
+        "2016/2017": 379,
+        "2017/2018": 163,
+        "2018/2019": 78,
+        "2019/2020": 430,
+        "2020/2021": -3593,
+        "2021/2022": 738,
+        "2022/2023": -379,
+        "2023/2024": 1191,
+        "2024/2025": 281
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Change due to prepaid expenses and other",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 96,
+        "2016/2017": -86,
+        "2017/2018": 77,
+        "2018/2019": -12,
+        "2019/2020": -547,
+        "2020/2021": -2054,
+        "2021/2022": 774,
+        "2022/2023": -44,
+        "2023/2024": -835,
+        "2024/2025": -241
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Net remeasurement gains (losses)",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 4847,
+        "2023/2024": -1262,
+        "2024/2025": 6015
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Change in Net Debt—detailed",
+      "lvl1": "Other comprehensive income (loss)",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -2669,
+        "2016/2017": 1857,
+        "2017/2018": -753,
+        "2018/2019": -232,
+        "2019/2020": 3482,
+        "2020/2021": 343,
+        "2021/2022": 4465,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -2861,
+        "2016/2017": -18957,
+        "2017/2018": -18961,
+        "2018/2019": -13964,
+        "2019/2020": -39392,
+        "2020/2021": -327729,
+        "2021/2022": -90315,
+        "2022/2023": -35322,
+        "2023/2024": -61876,
+        "2024/2025": -36348
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Share of annual (profit) loss in enterprise Crown corporations and other government business enterprises",
+      "detail": "",
+      "values": {
+        "2015/2016": -7316,
+        "2016/2017": -4920,
+        "2017/2018": -6959,
+        "2018/2019": -5920,
+        "2019/2020": -3588,
+        "2020/2021": 11638,
+        "2021/2022": -11535,
+        "2022/2023": -3878,
+        "2023/2024": 660,
+        "2024/2025": -3239
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Effective interest on debt",
+      "detail": "",
+      "values": {
+        "2015/2016": 2374,
+        "2016/2017": 1936,
+        "2017/2018": 1999,
+        "2018/2019": 3044,
+        "2019/2020": 4649,
+        "2020/2021": 1559,
+        "2021/2022": 3416,
+        "2022/2023": 9329,
+        "2023/2024": 15082,
+        "2024/2025": 14574
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Provision for valuation on other loans, investments and advances",
+      "detail": "",
+      "values": {
+        "2015/2016": 1034,
+        "2016/2017": 869,
+        "2017/2018": -109,
+        "2018/2019": 2080,
+        "2019/2020": 425,
+        "2020/2021": 17175,
+        "2021/2022": 2563,
+        "2022/2023": 6688,
+        "2023/2024": 3431,
+        "2024/2025": 2871
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Amortization of tangible capital assets",
+      "detail": "",
+      "values": {
+        "2015/2016": 5049,
+        "2016/2017": 5168,
+        "2017/2018": 5261,
+        "2018/2019": 5643,
+        "2019/2020": 5790,
+        "2020/2021": 5969,
+        "2021/2022": 5514,
+        "2022/2023": 5644,
+        "2023/2024": 5633,
+        "2024/2025": 6044
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Net (gain) loss on disposal of tangible capital assets, including adjustments",
+      "detail": "",
+      "values": {
+        "2015/2016": -135,
+        "2016/2017": -832,
+        "2017/2018": 137,
+        "2018/2019": -49,
+        "2019/2020": -285,
+        "2020/2021": 242,
+        "2021/2022": -207,
+        "2022/2023": 481,
+        "2023/2024": 675,
+        "2024/2025": 213
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Net exchange loss (gain) and accrued interest on derivatives",
+      "detail": "",
+      "values": {
+        "2015/2016": 1722,
+        "2016/2017": -627,
+        "2017/2018": 71,
+        "2018/2019": -561,
+        "2019/2020": 3318,
+        "2020/2021": -10142,
+        "2021/2022": -2696,
+        "2022/2023": 6444,
+        "2023/2024": -224,
+        "2024/2025": 7829
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Pensions and other future benefit and interest expenses",
+      "detail": "",
+      "values": {
+        "2015/2016": 26491,
+        "2016/2017": 25884,
+        "2017/2018": 29588,
+        "2018/2019": 25662,
+        "2019/2020": 28954,
+        "2020/2021": 35152,
+        "2021/2022": 32127,
+        "2022/2023": 33720,
+        "2023/2024": 32363,
+        "2024/2025": 30991
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Provision for doubtful accounts",
+      "detail": "",
+      "values": {
+        "2015/2016": 4325,
+        "2016/2017": 2566,
+        "2017/2018": 2323,
+        "2018/2019": 4024,
+        "2019/2020": 4403,
+        "2020/2021": 6257,
+        "2021/2022": 5571,
+        "2022/2023": 6249,
+        "2023/2024": 12638,
+        "2024/2025": 12905
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Net losses on write-offs and write-down of inventory and prepaid expenses",
+      "detail": "",
+      "values": {
+        "2015/2016": 698,
+        "2016/2017": 370,
+        "2017/2018": 613,
+        "2018/2019": 400,
+        "2019/2020": 307,
+        "2020/2021": 486,
+        "2021/2022": 2236,
+        "2022/2023": 1524,
+        "2023/2024": 1499,
+        "2024/2025": 1012
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Net exchange gain (loss) on foreign exchange accounts and other foreign currency balances",
+      "detail": "",
+      "values": {
+        "2015/2016": -2471,
+        "2016/2017": 214,
+        "2017/2018": -771,
+        "2018/2019": -589,
+        "2019/2020": -5298,
+        "2020/2021": 7199,
+        "2021/2022": 3450,
+        "2022/2023": -5969,
+        "2023/2024": -237,
+        "2024/2025": -7629
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Non-cash items",
+      "lvl4": "Foreign exchange accounts net (gain) loss on investments and non-cash interest",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": -170,
+        "2023/2024": -1350,
+        "2024/2025": -896
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Change in taxes receivable",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -11182,
+        "2016/2017": -7425,
+        "2017/2018": -15846,
+        "2018/2019": -8292,
+        "2019/2020": 2198,
+        "2020/2021": -26049,
+        "2021/2022": -30653,
+        "2022/2023": -18162,
+        "2023/2024": -30015,
+        "2024/2025": -18974
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Pension and other future benefit payments",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -15889,
+        "2016/2017": -17492,
+        "2017/2018": -19120,
+        "2018/2019": -19007,
+        "2019/2020": -18816,
+        "2020/2021": -18901,
+        "2021/2022": -20586,
+        "2022/2023": -20510,
+        "2023/2024": -22092,
+        "2024/2025": -23892
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Transfer addressing non-permitted surplus",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 1943
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Net change in foreign exchange accounts assets",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -15691,
+        "2016/2017": -5200,
+        "2017/2018": 2873,
+        "2018/2019": -859,
+        "2019/2020": 610,
+        "2020/2021": 5564,
+        "2021/2022": -13569,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Net change in foreign exchange accounts liabilities",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 9493,
+        "2016/2017": -394,
+        "2017/2018": 882,
+        "2018/2019": -1400,
+        "2019/2020": -682,
+        "2020/2021": -1526,
+        "2021/2022": -1173,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Change in accounts payable and accrued liabilities",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 3488,
+        "2016/2017": 2824,
+        "2017/2018": 20849,
+        "2018/2019": 11908,
+        "2019/2020": 4126,
+        "2020/2021": 43564,
+        "2021/2022": 52641,
+        "2022/2023": -3221,
+        "2023/2024": 4242,
+        "2024/2025": -4194
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Net change in cash collateral",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -6557,
+        "2016/2017": -349,
+        "2017/2018": -1841,
+        "2018/2019": 1622,
+        "2019/2020": -2825,
+        "2020/2021": 9286,
+        "2021/2022": 1802,
+        "2022/2023": -2623,
+        "2023/2024": -249,
+        "2024/2025": -1596
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Operating activities",
+      "lvl2": "Annual operating deficit",
+      "lvl3": "Net change in other accounts",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -3068,
+        "2016/2017": -720,
+        "2017/2018": -516,
+        "2018/2019": 1118,
+        "2019/2020": 1036,
+        "2020/2021": -9517,
+        "2021/2022": -3340,
+        "2022/2023": -4577,
+        "2023/2024": -7130,
+        "2024/2025": -4572
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Capital investment activities",
+      "lvl2": "Acquisition of tangible capital assets",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -7379,
+        "2016/2017": -7834,
+        "2017/2018": -9220,
+        "2018/2019": -10010,
+        "2019/2020": -9598,
+        "2020/2021": -10030,
+        "2021/2022": -8886,
+        "2022/2023": -10891,
+        "2023/2024": -13560,
+        "2024/2025": -17169
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Capital investment activities",
+      "lvl2": "Proceeds from disposal of tangible capital assets",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 610,
+        "2016/2017": 373,
+        "2017/2018": 236,
+        "2018/2019": 433,
+        "2019/2020": 41,
+        "2020/2021": 15,
+        "2021/2022": 28,
+        "2022/2023": 26,
+        "2023/2024": 62,
+        "2024/2025": 12
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Investing activities",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Dividends received and other equity adjustments",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 4975,
+        "2016/2017": 2195,
+        "2017/2018": 7993,
+        "2018/2019": 6302,
+        "2019/2020": 1992,
+        "2020/2021": -13989,
+        "2021/2022": 13187,
+        "2022/2023": 11505,
+        "2023/2024": 1515,
+        "2024/2025": 839
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Investing activities",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Purchases of other investments",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": -7569,
+        "2024/2025": -28245
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Investing activities",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Issuance of loans and advances",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -54542,
+        "2016/2017": -52213,
+        "2017/2018": -42756,
+        "2018/2019": -48889,
+        "2019/2020": -54334,
+        "2020/2021": -48985,
+        "2021/2022": -67331,
+        "2022/2023": -63334,
+        "2023/2024": -65098,
+        "2024/2025": -90585
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Investing activities",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Repayment of loans and advances",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 52699,
+        "2016/2017": 48703,
+        "2017/2018": 39884,
+        "2018/2019": 41086,
+        "2019/2020": 42648,
+        "2020/2021": 47837,
+        "2021/2022": 54205,
+        "2022/2023": 52058,
+        "2023/2024": 57332,
+        "2024/2025": 61620
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Investing activities",
+      "lvl2": "Issuance of other loans, investments and advances and foreign exchange accounts loans",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -7601,
+        "2016/2017": -5978,
+        "2017/2018": -7483,
+        "2018/2019": -7446,
+        "2019/2020": -8158,
+        "2020/2021": -54548,
+        "2021/2022": -14316,
+        "2022/2023": -13773,
+        "2023/2024": -12971,
+        "2024/2025": -16634
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Investing activities",
+      "lvl2": "Repayment of other loans, investments and advances and  foreign exchange accounts loans",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 5383,
+        "2016/2017": 4708,
+        "2017/2018": 3120,
+        "2018/2019": 4555,
+        "2019/2020": 4699,
+        "2020/2021": 5010,
+        "2021/2022": 7693,
+        "2022/2023": 8737,
+        "2023/2024": 26999,
+        "2024/2025": 7589
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Investing activities",
+      "lvl2": "Issuance of advances to the Exchange Fund Account",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": -47464,
+        "2023/2024": -41234,
+        "2024/2025": -39108
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Investing activities",
+      "lvl2": "Repayment of advances to the Exchange Fund Account",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 33331,
+        "2023/2024": 30548,
+        "2024/2025": 30454
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Financing activities",
+      "lvl2": "Issuance of Canadian currency borrowings",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 452850,
+        "2016/2017": 507483,
+        "2017/2018": 441307,
+        "2018/2019": 437135,
+        "2019/2020": 468722,
+        "2020/2021": 1048574,
+        "2021/2022": 710292,
+        "2022/2023": 587867,
+        "2023/2024": 773261,
+        "2024/2025": 969450
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Financing activities",
+      "lvl2": "Repayment of Canadian currency borrowings",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -435143,
+        "2016/2017": -477549,
+        "2017/2018": -433801,
+        "2018/2019": -424926,
+        "2019/2020": -430279,
+        "2020/2021": -698130,
+        "2021/2022": -592308,
+        "2022/2023": -584412,
+        "2023/2024": -681572,
+        "2024/2025": -883059
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Financing activities",
+      "lvl2": "Issuance of foreign currency borrowings",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 26817,
+        "2016/2017": 21702,
+        "2017/2018": 15847,
+        "2018/2019": 19631,
+        "2019/2020": 17821,
+        "2020/2021": 34185,
+        "2021/2022": 31377,
+        "2022/2023": 23825,
+        "2023/2024": 24573,
+        "2024/2025": 26652
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Financing activities",
+      "lvl2": "Repayment of foreign currency borrowings",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -24602,
+        "2016/2017": -26575,
+        "2017/2018": -17458,
+        "2018/2019": -19738,
+        "2019/2020": -18877,
+        "2020/2021": -33307,
+        "2021/2022": -32466,
+        "2022/2023": -23900,
+        "2023/2024": -18195,
+        "2024/2025": -19602
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Financing activities",
+      "lvl2": "Receipt of Canadian currency under swap contracts",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 7324,
+        "2023/2024": 9808,
+        "2024/2025": 8813
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Financing activities",
+      "lvl2": "Payment of Canadian currency under swap contracts",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": -22893,
+        "2023/2024": -17603,
+        "2024/2025": -10760
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Financing activities",
+      "lvl2": "Receipt of foreign currency under swap contracts",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 22879,
+        "2023/2024": 17603,
+        "2024/2025": 10767
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Financing activities",
+      "lvl2": "Payment of foreign currency under swap contracts",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": -8348,
+        "2023/2024": -10896,
+        "2024/2025": -9026
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Cash Flow—detailed",
+      "lvl1": "Cash and cash equivalents at beginning of year",
+      "lvl2": "",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 34999,
+        "2016/2017": 38570,
+        "2017/2018": 36500,
+        "2018/2019": 34642,
+        "2019/2020": 37635,
+        "2020/2021": 37242,
+        "2021/2022": 64101,
+        "2022/2023": 100822,
+        "2023/2024": 49006,
+        "2024/2025": 75059
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Loans and advances",
+      "lvl4": "Canada Mortgage and Housing Corporation",
+      "detail": "",
+      "values": {
+        "2015/2016": 177,
+        "2016/2017": 720,
+        "2017/2018": 1124,
+        "2018/2019": 592,
+        "2019/2020": -6282,
+        "2020/2021": -907,
+        "2021/2022": -2024,
+        "2022/2023": -2510,
+        "2023/2024": -2310,
+        "2024/2025": -2117
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Loans and advances",
+      "lvl4": "Business Development Bank of Canada",
+      "detail": "",
+      "values": {
+        "2015/2016": -1266,
+        "2016/2017": -1869,
+        "2017/2018": -1659,
+        "2018/2019": -1765,
+        "2019/2020": -1170,
+        "2020/2021": 5179,
+        "2021/2022": -1848,
+        "2022/2023": -6793,
+        "2023/2024": -2626,
+        "2024/2025": -4311
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Loans and advances",
+      "lvl4": "Farm Credit Canada",
+      "detail": "",
+      "values": {
+        "2015/2016": -748,
+        "2016/2017": -2245,
+        "2017/2018": -2318,
+        "2018/2019": -1850,
+        "2019/2020": -2794,
+        "2020/2021": -1699,
+        "2021/2022": -3106,
+        "2022/2023": -2821,
+        "2023/2024": -2829,
+        "2024/2025": -4406
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Loans and advances",
+      "lvl4": "Canadian Development Investment Corporation",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": -4790,
+        "2019/2020": -1465,
+        "2020/2021": -3725,
+        "2021/2022": -6290,
+        "2022/2023": 138,
+        "2023/2024": -764,
+        "2024/2025": -18707
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Loans and advances",
+      "lvl4": "Other",
+      "detail": "",
+      "values": {
+        "2015/2016": -11,
+        "2016/2017": -117,
+        "2017/2018": -18,
+        "2018/2019": 9,
+        "2019/2020": 17,
+        "2020/2021": -12,
+        "2021/2022": 154,
+        "2022/2023": -26,
+        "2023/2024": -2,
+        "2024/2025": -79
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Investments",
+      "lvl4": "Share of annual loss (profit)",
+      "detail": "",
+      "values": {
+        "2015/2016": -7316,
+        "2016/2017": -4920,
+        "2017/2018": -6959,
+        "2018/2019": -5920,
+        "2019/2020": -3588,
+        "2020/2021": 11638,
+        "2021/2022": -11535,
+        "2022/2023": -3878,
+        "2023/2024": 660,
+        "2024/2025": -3239
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Investments",
+      "lvl4": "Other comprehensive (income) loss",
+      "detail": "",
+      "values": {
+        "2015/2016": 2669,
+        "2016/2017": -1857,
+        "2017/2018": 753,
+        "2018/2019": 232,
+        "2019/2020": -3482,
+        "2020/2021": -343,
+        "2021/2022": -4465,
+        "2022/2023": -1628,
+        "2023/2024": 221,
+        "2024/2025": -920
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Investments",
+      "lvl4": "Dividends",
+      "detail": "",
+      "values": {
+        "2015/2016": 4002,
+        "2016/2017": 2320,
+        "2017/2018": 8058,
+        "2018/2019": 6427,
+        "2019/2020": 3618,
+        "2020/2021": 13592,
+        "2021/2022": 6050,
+        "2022/2023": 1695,
+        "2023/2024": 1423,
+        "2024/2025": 1184
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Investments",
+      "lvl4": "Capital",
+      "detail": "",
+      "values": {
+        "2015/2016": 973,
+        "2016/2017": -125,
+        "2017/2018": -65,
+        "2018/2019": -125,
+        "2019/2020": -1816,
+        "2020/2021": -18470,
+        "2021/2022": -435,
+        "2022/2023": 8717,
+        "2023/2024": -290,
+        "2024/2025": -356
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Investments",
+      "lvl4": "Equity adjustments and other",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 190,
+        "2020/2021": -24,
+        "2021/2022": 2,
+        "2022/2023": -27,
+        "2023/2024": -13,
+        "2024/2025": 11
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Investments",
+      "lvl4": "Canada Mortgage Bonds",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": -7580,
+        "2024/2025": -36557
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Enterprise Crown corporations and other government business enterprises",
+      "lvl3": "Loans expected to be repaid from future appropriations",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 221,
+        "2016/2017": 218,
+        "2017/2018": 264,
+        "2018/2019": 204,
+        "2019/2020": 167,
+        "2020/2021": 115,
+        "2021/2022": 225,
+        "2022/2023": 201,
+        "2023/2024": 183,
+        "2024/2025": 95
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Other loans, investments and advances",
+      "lvl3": "Portfolio investments",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 351,
+        "2016/2017": 286,
+        "2017/2018": 1235,
+        "2018/2019": -616,
+        "2019/2020": -385,
+        "2020/2021": -165,
+        "2021/2022": 390,
+        "2022/2023": -166,
+        "2023/2024": -247,
+        "2024/2025": 150
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Other loans, investments and advances",
+      "lvl3": "Capital subscriptions - International organizations",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": -257,
+        "2018/2019": 257,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Other loans, investments and advances",
+      "lvl3": "Loans and advances",
+      "lvl4": "Canada Emergency Business Account",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": -28789,
+        "2021/2022": 344,
+        "2022/2023": 3864,
+        "2023/2024": 21016,
+        "2024/2025": 1161
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Other loans, investments and advances",
+      "lvl3": "Loans and advances",
+      "lvl4": "Canada Student Loans and Canada Apprentice Loans",
+      "detail": "",
+      "values": {
+        "2015/2016": -694,
+        "2016/2017": -504,
+        "2017/2018": -913,
+        "2018/2019": -1156,
+        "2019/2020": -637,
+        "2020/2021": -1120,
+        "2021/2022": -115,
+        "2022/2023": -510,
+        "2023/2024": 1683,
+        "2024/2025": -2205
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Other loans, investments and advances",
+      "lvl3": "Loans and advances",
+      "lvl4": "Unconditionally repayable contributions",
+      "detail": "",
+      "values": {
+        "2015/2016": -1177,
+        "2016/2017": 47,
+        "2017/2018": -139,
+        "2018/2019": -147,
+        "2019/2020": -389,
+        "2020/2021": -1619,
+        "2021/2022": -1098,
+        "2022/2023": -948,
+        "2023/2024": -622,
+        "2024/2025": -658
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Loans, investments and advances",
+      "lvl2": "Other loans, investments and advances",
+      "lvl3": "Loans and advances",
+      "lvl4": "Other loans and advances",
+      "detail": "",
+      "values": {
+        "2015/2016": 985,
+        "2016/2017": 433,
+        "2017/2018": -943,
+        "2018/2019": 1515,
+        "2019/2020": -240,
+        "2020/2021": -197,
+        "2021/2022": -3550,
+        "2022/2023": -984,
+        "2023/2024": -4229,
+        "2024/2025": -5154
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Pensions and other future benefits",
+      "lvl2": "Public sector pensions",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 1061,
+        "2016/2017": 505,
+        "2017/2018": -757,
+        "2018/2019": -2414,
+        "2019/2020": -2378,
+        "2020/2021": -1557,
+        "2021/2022": -3979,
+        "2022/2023": -5034,
+        "2023/2024": -8130,
+        "2024/2025": -8275
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Pensions and other future benefits",
+      "lvl2": "Other employee and veteran future benefits",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 9541,
+        "2016/2017": 7887,
+        "2017/2018": 11225,
+        "2018/2019": 9069,
+        "2019/2020": 12516,
+        "2020/2021": 17808,
+        "2021/2022": 15519,
+        "2022/2023": 18244,
+        "2023/2024": 18401,
+        "2024/2025": 17317
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Other liabilities",
+      "lvl2": "Canada Pension Plan Account",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -177,
+        "2016/2017": 71,
+        "2017/2018": -74,
+        "2018/2019": 131,
+        "2019/2020": 115,
+        "2020/2021": -139,
+        "2021/2022": -38,
+        "2022/2023": 204,
+        "2023/2024": -146,
+        "2024/2025": 306
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Other liabilities",
+      "lvl2": "Other liabilities",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -223,
+        "2016/2017": 16,
+        "2017/2018": 55,
+        "2018/2019": 104,
+        "2019/2020": 31,
+        "2020/2021": 800,
+        "2021/2022": 1034,
+        "2022/2023": -573,
+        "2023/2024": -230,
+        "2024/2025": -238
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Non-financial assets",
+      "lvl2": "Tangible capital assets",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -2491,
+        "2016/2017": -3838,
+        "2017/2018": -4159,
+        "2018/2019": -5107,
+        "2019/2020": -4740,
+        "2020/2021": -3901,
+        "2021/2022": -5202,
+        "2022/2023": -4552,
+        "2023/2024": -7214,
+        "2024/2025": -10539
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Non-financial assets",
+      "lvl2": "Inventories",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 29,
+        "2016/2017": 379,
+        "2017/2018": 163,
+        "2018/2019": 78,
+        "2019/2020": 430,
+        "2020/2021": -3593,
+        "2021/2022": 738,
+        "2022/2023": -379,
+        "2023/2024": 1191,
+        "2024/2025": 281
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Non-financial assets",
+      "lvl2": "Prepaid expenses and other",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 96,
+        "2016/2017": -86,
+        "2017/2018": 77,
+        "2018/2019": -12,
+        "2019/2020": -547,
+        "2020/2021": -2054,
+        "2021/2022": 774,
+        "2022/2023": -44,
+        "2023/2024": -835,
+        "2024/2025": -241
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Other transactions",
+      "lvl2": "Taxes receivable",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -7349,
+        "2016/2017": -4666,
+        "2017/2018": -12521,
+        "2018/2019": -4526,
+        "2019/2020": 6463,
+        "2020/2021": -20925,
+        "2021/2022": -25565,
+        "2022/2023": -13394,
+        "2023/2024": -22063,
+        "2024/2025": -10612
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Other transactions",
+      "lvl2": "Other accounts receivable",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -7108,
+        "2016/2017": -177,
+        "2017/2018": -4064,
+        "2018/2019": 2535,
+        "2019/2020": -3530,
+        "2020/2021": -2697,
+        "2021/2022": 6430,
+        "2022/2023": -1890,
+        "2023/2024": -467,
+        "2024/2025": 371
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Other transactions",
+      "lvl2": "Derivative assets",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 406,
+        "2016/2017": -885,
+        "2017/2018": 670,
+        "2018/2019": -73,
+        "2019/2020": 242,
+        "2020/2021": -2257,
+        "2021/2022": -1907,
+        "2022/2023": 1714,
+        "2023/2024": 332,
+        "2024/2025": 1176
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Other transactions",
+      "lvl2": "Provincial, Territorial and Indigenous Tax Agreements Account",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 2780,
+        "2016/2017": -1942,
+        "2017/2018": 5034,
+        "2018/2019": -351,
+        "2019/2020": -4710,
+        "2020/2021": 7691,
+        "2021/2022": 16140,
+        "2022/2023": -20942,
+        "2023/2024": 11285,
+        "2024/2025": -5484
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Other transactions",
+      "lvl2": "Amounts payable related to tax",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -2501,
+        "2016/2017": 1380,
+        "2017/2018": 6799,
+        "2018/2019": 3324,
+        "2019/2020": -5014,
+        "2020/2021": 11330,
+        "2021/2022": 6947,
+        "2022/2023": 6285,
+        "2023/2024": 2990,
+        "2024/2025": 7053
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Other transactions",
+      "lvl2": "Derivative liabilities",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 1516,
+        "2016/2017": 187,
+        "2017/2018": -633,
+        "2018/2019": -521,
+        "2019/2020": 3066,
+        "2020/2021": -8086,
+        "2021/2022": -774,
+        "2022/2023": 2218,
+        "2023/2024": -558,
+        "2024/2025": 1452
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Non-Budgetary Transactions and of Non-Financial Assets—detailed",
+      "lvl1": "Other transactions",
+      "lvl2": "Other liabilities",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 3262,
+        "2016/2017": 3607,
+        "2017/2018": 8941,
+        "2018/2019": 8888,
+        "2019/2020": 13863,
+        "2020/2021": 24419,
+        "2021/2022": 35845,
+        "2022/2023": 11568,
+        "2023/2024": -9659,
+        "2024/2025": -5901
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Foreign exchange accounts Assets",
+      "lvl2": "International reserves held in the Exchange Fund Account",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -9418,
+        "2016/2017": -5289,
+        "2017/2018": 1238,
+        "2018/2019": -1770,
+        "2019/2020": -4817,
+        "2020/2021": 14427,
+        "2021/2022": -29510,
+        "2022/2023": -21767,
+        "2023/2024": -10549,
+        "2024/2025": -18176
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Foreign exchange accounts Assets",
+      "lvl2": "International Monetary Fund—Subscriptions",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -9041,
+        "2016/2017": 278,
+        "2017/2018": -755,
+        "2018/2019": 198,
+        "2019/2020": -729,
+        "2020/2021": 1546,
+        "2021/2022": 581,
+        "2022/2023": -992,
+        "2023/2024": 286,
+        "2024/2025": -1313
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Foreign exchange accounts Assets",
+      "lvl2": "International Monetary Fund—Loans",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 75,
+        "2016/2017": 153,
+        "2017/2018": 350,
+        "2018/2019": 229,
+        "2019/2020": 178,
+        "2020/2021": 171,
+        "2021/2022": 65,
+        "2022/2023": 65,
+        "2023/2024": 67,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Foreign exchange accounts Assets",
+      "lvl2": "International Monetary Fund—Poverty Reduction and Growth Trust",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": -494,
+        "2024/2025": -1417
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Foreign exchange accounts Assets",
+      "lvl2": "International Monetary Fund—Resilience and Sustainability Trust",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": -414,
+        "2023/2024": -60,
+        "2024/2025": -316
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Foreign exchange accounts Liabilities",
+      "lvl2": "Exchange Fund Account liabilities",
+      "lvl3": "Due to broker",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 0,
+        "2016/2017": 0,
+        "2017/2018": 0,
+        "2018/2019": 0,
+        "2019/2020": 0,
+        "2020/2021": 0,
+        "2021/2022": 0,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": -316
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Foreign exchange accounts Liabilities",
+      "lvl2": "International Monetary Fund",
+      "lvl3": "Special drawing rights allocations",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -493,
+        "2016/2017": 150,
+        "2017/2018": -409,
+        "2018/2019": 107,
+        "2019/2020": -396,
+        "2020/2021": 840,
+        "2021/2022": -17945,
+        "2022/2023": -1489,
+        "2023/2024": 430,
+        "2024/2025": -1973
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Foreign exchange accounts Liabilities",
+      "lvl2": "International Monetary Fund",
+      "lvl3": "Notes payable",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -9370,
+        "2016/2017": 250,
+        "2017/2018": -617,
+        "2018/2019": 1300,
+        "2019/2020": 243,
+        "2020/2021": 3023,
+        "2021/2022": 490,
+        "2022/2023": -411,
+        "2023/2024": -385,
+        "2024/2025": -1303
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Unmatured debt",
+      "lvl2": "Payable in Canadian currency",
+      "lvl3": "Marketable bonds",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 16553,
+        "2016/2017": 32366,
+        "2017/2018": 37119,
+        "2018/2019": -6373,
+        "2019/2020": 27511,
+        "2020/2021": 285498,
+        "2021/2022": 154103,
+        "2022/2023": 1757,
+        "2023/2024": 42689,
+        "2024/2025": 81711
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Unmatured debt",
+      "lvl2": "Payable in Canadian currency",
+      "lvl3": "Treasury bills",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 2533,
+        "2016/2017": -1430,
+        "2017/2018": -26200,
+        "2018/2019": 23291,
+        "2019/2020": 17730,
+        "2020/2021": 67379,
+        "2021/2022": -31787,
+        "2022/2023": 12022,
+        "2023/2024": 64084,
+        "2024/2025": 19269
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Unmatured debt",
+      "lvl2": "Payable in Canadian currency",
+      "lvl3": "Retail debt",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -584,
+        "2016/2017": -543,
+        "2017/2018": -1947,
+        "2018/2019": -1349,
+        "2019/2020": -740,
+        "2020/2021": -198,
+        "2021/2022": -299,
+        "2022/2023": 0,
+        "2023/2024": 0,
+        "2024/2025": 0
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Unmatured debt",
+      "lvl2": "Payable in foreign currencies",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 2221,
+        "2016/2017": -4872,
+        "2017/2018": -1537,
+        "2018/2019": -21,
+        "2019/2020": -86,
+        "2020/2021": -513,
+        "2021/2022": -996,
+        "2022/2023": 1561,
+        "2023/2024": 5212,
+        "2024/2025": 8311
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Unmatured debt",
+      "lvl2": "Obligation related to capital leases",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": -233,
+        "2016/2017": -251,
+        "2017/2018": -23,
+        "2018/2019": -310,
+        "2019/2020": 20,
+        "2020/2021": -205,
+        "2021/2022": 78,
+        "2022/2023": -240,
+        "2023/2024": -180,
+        "2024/2025": -178
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Unmatured debt",
+      "lvl2": "Obligation under public-private partnership",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 565,
+        "2016/2017": 629,
+        "2017/2018": 194,
+        "2018/2019": 1118,
+        "2019/2020": -921,
+        "2020/2021": -59,
+        "2021/2022": 50,
+        "2022/2023": -17,
+        "2023/2024": -23,
+        "2024/2025": -48
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Cash and cash equivalents at end of year",
+      "lvl2": "In Canadian currency",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 36022,
+        "2016/2017": 35353,
+        "2017/2018": 34110,
+        "2018/2019": 36840,
+        "2019/2020": 36400,
+        "2020/2021": 63685,
+        "2021/2022": 100166,
+        "2022/2023": 47891,
+        "2023/2024": 73809,
+        "2024/2025": 52423
+      }
+    },
+    {
+      "finStmt": "Consolidated Statement of Foreign Exchange, Unmatured Debt and Cash Transactions—detailed",
+      "lvl1": "Cash and cash equivalents at end of year",
+      "lvl2": "In foreign currencies",
+      "lvl3": "",
+      "lvl4": "",
+      "detail": "",
+      "values": {
+        "2015/2016": 2548,
+        "2016/2017": 1147,
+        "2017/2018": 532,
+        "2018/2019": 795,
+        "2019/2020": 842,
+        "2020/2021": 416,
+        "2021/2022": 656,
+        "2022/2023": 1115,
+        "2023/2024": 1250,
+        "2024/2025": 1686
+      }
+    }
+  ]
+}

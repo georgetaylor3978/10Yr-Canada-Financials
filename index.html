@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Government of Canada — 10 Year Financial Statements</title>
+    <meta name="description"
+        content="Interactive dashboard showing 10 years of Canadian federal revenues, expenses, and balance sheet data.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo-area">
+                <div class="logo-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+                    </svg>
+                </div>
+                <div>
+                    <h1><span class="canada-flag">&#x1F1E8;&#x1F1E6;</span> Government of Canada — Financial Statements
+                    </h1>
+                    <div class="subtitle">10 Year Overview · 2015/2016 – 2024/2025 · Amounts in Millions</div>
+                </div>
+            </div>
+            <div class="header-actions">
+                <div class="data-status loaded" id="dataStatus">&#x25CF; Data Loaded</div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Tab Bar -->
+    <nav class="tab-bar">
+        <div class="tab-bar-content">
+            <button class="tab-btn active" data-tab="revenues">
+                <span class="tab-icon">📈</span>
+                <span class="tab-label">Revenues</span>
+            </button>
+            <button class="tab-btn" data-tab="expenses">
+                <span class="tab-icon">📉</span>
+                <span class="tab-label">Expenses</span>
+            </button>
+            <button class="tab-btn" data-tab="balanceSheet">
+                <span class="tab-icon">🏦</span>
+                <span class="tab-label">Balance Sheet</span>
+            </button>
+            <div class="tab-indicator" id="tabIndicator"></div>
+        </div>
+    </nav>
+
+    <!-- Shared Year Controls -->
+    <section class="year-controls">
+        <div class="year-controls-content">
+            <label class="year-label">FISCAL YEAR RANGE</label>
+            <div class="year-selectors">
+                <div class="year-select-group">
+                    <label>From</label>
+                    <select id="yearFrom"></select>
+                </div>
+                <span class="year-dash">—</span>
+                <div class="year-select-group">
+                    <label>To</label>
+                    <select id="yearTo"></select>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════ REVENUES Section ═══════ -->
+    <section class="tab-section active" id="section-revenues">
+        <div class="section-content">
+            <!-- Controls -->
+            <div class="section-controls">
+                <div class="control-group">
+                    <label>VIEW LEVEL</label>
+                    <select class="level-select" id="rev-level">
+                        <option value="overview">Overview — All Revenue Categories</option>
+                    </select>
+                </div>
+                <div class="slicer-group">
+                    <label>CATEGORIES</label>
+                    <div class="slicer-buttons" id="rev-slicers"></div>
+                </div>
+            </div>
+            <!-- Summary Cards -->
+            <div class="summary-cards">
+                <div class="card accent-green">
+                    <div class="card-label">Latest Year Total</div>
+                    <div class="card-value" id="rev-latest-val">&mdash;</div>
+                    <div class="card-sub" id="rev-latest-year">&mdash;</div>
+                </div>
+                <div class="card accent-green">
+                    <div class="card-label">10-Year Growth</div>
+                    <div class="card-value" id="rev-growth">&mdash;</div>
+                    <div class="card-sub">Change over period</div>
+                </div>
+                <div class="card accent-green">
+                    <div class="card-label">Avg Annual Growth</div>
+                    <div class="card-value" id="rev-avg-growth">&mdash;</div>
+                    <div class="card-sub">Compound annual rate</div>
+                </div>
+                <div class="card accent-green">
+                    <div class="card-label">Largest Category</div>
+                    <div class="card-value" id="rev-largest">&mdash;</div>
+                    <div class="card-sub" id="rev-largest-name">&mdash;</div>
+                </div>
+            </div>
+            <!-- Charts -->
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-header">
+                        <h2 id="rev-bar-title">Revenue Breakdown by Year</h2>
+                    </div>
+                    <div class="chart-wrapper active">
+                        <canvas id="rev-bar-chart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <div class="chart-header">
+                        <h2 id="rev-line-title">Revenue Trends Over Time</h2>
+                    </div>
+                    <div class="chart-wrapper active">
+                        <canvas id="rev-line-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+            <!-- Data Table -->
+            <div class="data-table-container">
+                <div class="chart-header">
+                    <h2>Revenue Data ($ Millions)</h2>
+                </div>
+                <div class="data-table-scroll" id="rev-table"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════ EXPENSES Section ═══════ -->
+    <section class="tab-section" id="section-expenses">
+        <div class="section-content">
+            <div class="section-controls">
+                <div class="control-group">
+                    <label>VIEW LEVEL</label>
+                    <select class="level-select" id="exp-level">
+                        <option value="overview">Overview — All Expense Categories</option>
+                    </select>
+                </div>
+                <div class="slicer-group">
+                    <label>CATEGORIES</label>
+                    <div class="slicer-buttons" id="exp-slicers"></div>
+                </div>
+            </div>
+            <div class="summary-cards">
+                <div class="card accent-red">
+                    <div class="card-label">Latest Year Total</div>
+                    <div class="card-value" id="exp-latest-val">&mdash;</div>
+                    <div class="card-sub" id="exp-latest-year">&mdash;</div>
+                </div>
+                <div class="card accent-red">
+                    <div class="card-label">10-Year Growth</div>
+                    <div class="card-value" id="exp-growth">&mdash;</div>
+                    <div class="card-sub">Change over period</div>
+                </div>
+                <div class="card accent-red">
+                    <div class="card-label">Avg Annual Growth</div>
+                    <div class="card-value" id="exp-avg-growth">&mdash;</div>
+                    <div class="card-sub">Compound annual rate</div>
+                </div>
+                <div class="card accent-red">
+                    <div class="card-label">Largest Category</div>
+                    <div class="card-value" id="exp-largest">&mdash;</div>
+                    <div class="card-sub" id="exp-largest-name">&mdash;</div>
+                </div>
+            </div>
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-header">
+                        <h2 id="exp-bar-title">Expense Breakdown by Year</h2>
+                    </div>
+                    <div class="chart-wrapper active">
+                        <canvas id="exp-bar-chart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <div class="chart-header">
+                        <h2 id="exp-line-title">Expense Trends Over Time</h2>
+                    </div>
+                    <div class="chart-wrapper active">
+                        <canvas id="exp-line-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+            <!-- Data Table -->
+            <div class="data-table-container">
+                <div class="chart-header">
+                    <h2>Expense Data ($ Millions)</h2>
+                </div>
+                <div class="data-table-scroll" id="exp-table"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════ BALANCE SHEET Section ═══════ -->
+    <section class="tab-section" id="section-balanceSheet">
+        <div class="section-content">
+            <div class="section-controls">
+                <div class="control-group">
+                    <label>VIEW LEVEL</label>
+                    <select class="level-select" id="bs-level">
+                        <option value="overview">Overview — Assets & Liabilities</option>
+                    </select>
+                </div>
+                <div class="slicer-group">
+                    <label>CATEGORIES</label>
+                    <div class="slicer-buttons" id="bs-slicers"></div>
+                </div>
+            </div>
+            <div class="summary-cards">
+                <div class="card accent-blue">
+                    <div class="card-label">Total Liabilities</div>
+                    <div class="card-value" id="bs-liabilities">&mdash;</div>
+                    <div class="card-sub" id="bs-liab-year">&mdash;</div>
+                </div>
+                <div class="card accent-blue">
+                    <div class="card-label">Total Assets</div>
+                    <div class="card-value" id="bs-assets">&mdash;</div>
+                    <div class="card-sub" id="bs-asset-year">&mdash;</div>
+                </div>
+                <div class="card accent-blue">
+                    <div class="card-label">Accumulated Deficit</div>
+                    <div class="card-value" id="bs-netdebt">&mdash;</div>
+                    <div class="card-sub">Liabilities − Assets</div>
+                </div>
+                <div class="card accent-blue">
+                    <div class="card-label">Debt Growth</div>
+                    <div class="card-value" id="bs-debt-growth">&mdash;</div>
+                    <div class="card-sub">Over selected period</div>
+                </div>
+            </div>
+            <div class="charts-grid">
+                <div class="chart-container">
+                    <div class="chart-header">
+                        <h2 id="bs-bar-title">Balance Sheet — Assets vs Liabilities</h2>
+                    </div>
+                    <div class="chart-wrapper active">
+                        <canvas id="bs-bar-chart"></canvas>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <div class="chart-header">
+                        <h2 id="bs-line-title">Balance Sheet Trends</h2>
+                    </div>
+                    <div class="chart-wrapper active">
+                        <canvas id="bs-line-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+            <!-- Data Table -->
+            <div class="data-table-container">
+                <div class="chart-header">
+                    <h2>Balance Sheet Data ($ Millions)</h2>
+                </div>
+                <div class="data-table-scroll" id="bs-table"></div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <p>Data Source: Government of Canada — Consolidated Financial Statements | 10 Year Financial Dashboard</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
