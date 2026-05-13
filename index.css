@@ -41,6 +41,27 @@
   --font: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
+:root.light-mode {
+  --bg-primary: #f8fafc;
+  --bg-secondary: #f1f5f9;
+  --bg-card: #ffffff;
+  --bg-card-hover: #f8fafc;
+  --bg-controls: #e2e8f0;
+  --bg-input: #ffffff;
+
+  --text-primary: #0f172a;
+  --text-secondary: #334155;
+  --text-muted: #64748b;
+
+  --border: rgba(0, 0, 0, 0.1);
+  --border-light: rgba(0, 0, 0, 0.05);
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.1);
+  --shadow-glow: 0 0 20px rgba(59, 130, 246, 0.1);
+}
+
 *,
 *::before,
 *::after {
@@ -141,6 +162,24 @@ body {
   color: var(--positive);
   border-color: rgba(16, 185, 129, 0.3);
   background: rgba(16, 185, 129, 0.08);
+}
+
+.theme-toggle {
+  background: var(--bg-card);
+  color: var(--text-primary);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 6px 12px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: var(--font);
+}
+
+.theme-toggle:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--border-light);
 }
 
 .canada-flag {
@@ -318,6 +357,17 @@ body {
   max-width: 1440px;
   margin: 0 auto;
   padding: 24px 32px;
+}
+
+.trudeau-quote {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--text-muted);
+  border-left: 4px solid var(--accent-blue);
+  padding: 12px 20px;
+  margin-bottom: 24px;
+  background: var(--bg-card);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
 }
 
 /* ═══════════ Section Controls ═══════════ */
@@ -669,6 +719,16 @@ body {
 .footer p {
   font-size: 0.75rem;
   color: var(--text-muted);
+  margin-bottom: 8px;
+}
+
+.footer a {
+  color: var(--accent-blue);
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
 }
 
 /* ═══════════════════════════════════════

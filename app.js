@@ -27,10 +27,23 @@ var COLORS = {
 };
 
 var DATA = null;
+var isLightMode = false;
 var activeTab = 'revenues';
 var yearFrom = null;
 var yearTo = null;
 var allYears = [];
+
+function setupThemeToggle() {
+    var btn = document.getElementById('themeToggle');
+    if (btn) {
+        btn.addEventListener('click', function() {
+            isLightMode = !isLightMode;
+            document.documentElement.classList.toggle('light-mode', isLightMode);
+            btn.textContent = isLightMode ? '🌙 Dark Mode' : '☀️ Light Mode';
+            updateAll();
+        });
+    }
+}
 
 // ── Section state ──
 var sections = {
@@ -50,6 +63,7 @@ async function init() {
         yearFrom = allYears[0];
         yearTo = allYears[allYears.length - 1];
         populateYearSelectors();
+        setupThemeToggle();
         setupTabs();
         setupYearEvents();
         buildSection('revenues', DATA.revenues);
@@ -535,13 +549,13 @@ function updateBalanceSheetBarChart(activeCatsWithColor, years) {
         label: 'Accumulated Deficit',
         data: deficitData,
         type: 'line',
-        borderColor: '#f0f4fc',
+        borderColor: isLightMode ? '#0f172a' : '#f0f4fc',
         backgroundColor: 'transparent',
         borderWidth: 3,
         borderDash: [6, 4],
         pointRadius: 5,
-        pointBackgroundColor: '#f0f4fc',
-        pointBorderColor: '#0a0e17',
+        pointBackgroundColor: isLightMode ? '#0f172a' : '#f0f4fc',
+        pointBorderColor: isLightMode ? '#ffffff' : '#0a0e17',
         pointBorderWidth: 2,
         tension: 0.3,
         order: -1
@@ -565,7 +579,7 @@ function barChartOptions(stacked) {
                 display: true,
                 position: 'bottom',
                 labels: {
-                    color: '#8b95b0',
+                    color: isLightMode ? '#64748b' : '#8b95b0',
                     font: { family: 'Inter', size: 10 },
                     padding: 10,
                     boxWidth: 10,
@@ -574,10 +588,10 @@ function barChartOptions(stacked) {
                 }
             },
             tooltip: {
-                backgroundColor: 'rgba(15, 21, 32, 0.95)',
-                titleColor: '#f0f4fc',
-                bodyColor: '#8b95b0',
-                borderColor: 'rgba(255,255,255,0.1)',
+                backgroundColor: isLightMode ? 'rgba(255, 255, 255, 0.95)' : 'rgba(15, 21, 32, 0.95)',
+                titleColor: isLightMode ? '#0f172a' : '#f0f4fc',
+                bodyColor: isLightMode ? '#334155' : '#8b95b0',
+                borderColor: isLightMode ? 'rgba(0,0,0,0.1)' : 'rgba(255,255,255,0.1)',
                 borderWidth: 1,
                 cornerRadius: 8,
                 padding: 12,
@@ -591,14 +605,14 @@ function barChartOptions(stacked) {
         scales: {
             x: {
                 stacked: stacked,
-                grid: { color: 'rgba(255,255,255,0.04)' },
-                ticks: { color: '#5a6580', font: { family: 'Inter', size: 11 } }
+                grid: { color: isLightMode ? 'rgba(0,0,0,0.05)' : 'rgba(255,255,255,0.04)' },
+                ticks: { color: isLightMode ? '#64748b' : '#5a6580', font: { family: 'Inter', size: 11 } }
             },
             y: {
                 stacked: stacked,
-                grid: { color: 'rgba(255,255,255,0.04)' },
+                grid: { color: isLightMode ? 'rgba(0,0,0,0.05)' : 'rgba(255,255,255,0.04)' },
                 ticks: {
-                    color: '#5a6580',
+                    color: isLightMode ? '#64748b' : '#5a6580',
                     font: { family: 'Inter', size: 11 },
                     callback: function (v) { return formatAxis(v); }
                 }
@@ -678,14 +692,14 @@ function updateBalanceSheetLineChart(activeCatsWithColor, years) {
     datasets.unshift({
         label: 'Accumulated Deficit',
         data: deficitData,
-        borderColor: '#f0f4fc',
-        backgroundColor: 'rgba(240, 244, 252, 0.06)',
+        borderColor: isLightMode ? '#0f172a' : '#f0f4fc',
+        backgroundColor: isLightMode ? 'rgba(15, 23, 42, 0.06)' : 'rgba(240, 244, 252, 0.06)',
         borderWidth: 3,
         fill: true,
         tension: 0.3,
         pointRadius: 4,
         pointHoverRadius: 7,
-        pointBackgroundColor: '#f0f4fc',
+        pointBackgroundColor: isLightMode ? '#0f172a' : '#f0f4fc',
         order: 0
     });
 
@@ -707,7 +721,7 @@ function lineChartOptions() {
                 display: true,
                 position: 'bottom',
                 labels: {
-                    color: '#8b95b0',
+                    color: isLightMode ? '#64748b' : '#8b95b0',
                     font: { family: 'Inter', size: 10 },
                     padding: 10,
                     boxWidth: 10,
@@ -715,10 +729,10 @@ function lineChartOptions() {
                 }
             },
             tooltip: {
-                backgroundColor: 'rgba(15, 21, 32, 0.95)',
-                titleColor: '#f0f4fc',
-                bodyColor: '#8b95b0',
-                borderColor: 'rgba(255,255,255,0.1)',
+                backgroundColor: isLightMode ? 'rgba(255, 255, 255, 0.95)' : 'rgba(15, 21, 32, 0.95)',
+                titleColor: isLightMode ? '#0f172a' : '#f0f4fc',
+                bodyColor: isLightMode ? '#334155' : '#8b95b0',
+                borderColor: isLightMode ? 'rgba(0,0,0,0.1)' : 'rgba(255,255,255,0.1)',
                 borderWidth: 1,
                 cornerRadius: 8,
                 padding: 12,
@@ -731,13 +745,13 @@ function lineChartOptions() {
         },
         scales: {
             x: {
-                grid: { color: 'rgba(255,255,255,0.04)' },
-                ticks: { color: '#5a6580', font: { family: 'Inter', size: 11 } }
+                grid: { color: isLightMode ? 'rgba(0,0,0,0.05)' : 'rgba(255,255,255,0.04)' },
+                ticks: { color: isLightMode ? '#64748b' : '#5a6580', font: { family: 'Inter', size: 11 } }
             },
             y: {
-                grid: { color: 'rgba(255,255,255,0.04)' },
+                grid: { color: isLightMode ? 'rgba(0,0,0,0.05)' : 'rgba(255,255,255,0.04)' },
                 ticks: {
-                    color: '#5a6580',
+                    color: isLightMode ? '#64748b' : '#5a6580',
                     font: { family: 'Inter', size: 11 },
                     callback: function (v) { return formatAxis(v); }
                 }
